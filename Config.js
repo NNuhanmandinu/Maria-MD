@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
+global.ownernumber = ['+940769917635']
+global.ownername = "NUHANAYA🤍🧚‍♂️_md"//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = 'NUHANAYA' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
@@ -19,7 +19,7 @@ global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://chat.whatsapp.com/ERfkWbPQtpQ3pNh1pbHzm4'
 
 //custom prefix
 global.prefa = ['.']
@@ -28,8 +28,8 @@ global.prefa = ['.']
 global.welcome = false //auto welcome
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autorecordtype =false /auto typing + recording
+global.autoread = false //auto  messages
 global.autobio = false //auto update bio
 global.anti212 = true //auto block +212
 global.autoread_status = false //auto view status/story
